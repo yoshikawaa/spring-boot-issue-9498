@@ -1,0 +1,4 @@
+# thymeleaf settings
+spring:
+  thymeleaf:
+    excluded-view-names : simpleView,excelView

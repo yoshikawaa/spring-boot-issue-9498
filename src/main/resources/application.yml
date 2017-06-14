@@ -1,0 +1,19 @@
+# spring profile properties
+spring.profiles.active: default
+
+# server properties
+server:
+  port: 9999
+  context-path: /spring-boot-issue-9498
+  error:
+    include-stacktrace: always
+
+# thymeleaf properties
+spring:
+  thymeleaf:
+    cache: false
+    
+# logging properties
+logging:
+  level:
+    com.example: DEBUG
