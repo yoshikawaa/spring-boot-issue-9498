@@ -35,3 +35,5 @@ Spring Boot Error Sample for https://github.com/spring-projects/spring-boot/issu
 ```console
 mvn clean verify spring-boot:run -Drun.profiles={profile}
 ```
+
+test
