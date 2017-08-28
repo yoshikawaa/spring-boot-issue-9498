@@ -4,7 +4,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>spring-boot-issue-9498</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<name>Spring Boot Sample Application</name>
+	<name>Spring Boot Test Application</name>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
